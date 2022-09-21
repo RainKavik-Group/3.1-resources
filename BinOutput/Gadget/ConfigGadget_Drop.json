@@ -521,7 +521,7 @@
         "MNDEFJBNOGI": true,
         "combat": {
             "property": {
-                "HP": 10.0,
+                "CMBBAPKBDCI": 10.0,
                 "isInvincible": true,
                 "canTriggerBullet": true,
                 "denyElementStick": true
@@ -573,7 +573,7 @@
         "MNDEFJBNOGI": true,
         "combat": {
             "property": {
-                "HP": 10.0,
+                "CMBBAPKBDCI": 10.0,
                 "isInvincible": true,
                 "canTriggerBullet": true,
                 "denyElementStick": true
